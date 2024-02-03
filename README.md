@@ -1,3 +1,3 @@
 # flix_id
 
-A new Flutter project.
+Flix-id is a movie ticket ordering simulation app built with Flutter.
